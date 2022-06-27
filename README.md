@@ -1,7 +1,7 @@
 # 👨‍💻 Full Stack JS Developer
 
-> I'm a backend & frontend developer for about 13 years.  
-> Specialized in Node.js and React.
+> I'm a frontend & backend developer for about 13 years.  
+> Specialized in React and Node.js.
 
 ## How to reach me
 📧 klimsemenov86@gmail.com
