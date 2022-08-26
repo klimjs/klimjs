@@ -1,7 +1,7 @@
 # 👨‍💻 Full Stack JS Developer
 
 > I'm a frontend & backend developer for 10+ years.  
-> Specialized in React and Node.js.
+> Specialized in Node.js.
 
 [Tech Stack I love ❤️](https://github.com/stars/klimjs/lists/tech-stack-i-love)
 
