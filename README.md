@@ -9,7 +9,7 @@ classic: `AdonisJS • htmx • Alpine.js`
 modern: `Remix • Prisma`  
 css: `Tailwind CSS • daisyUI`
 
-I currently work remotely at [Self](https://www.selfstudio.se) and [N+1 Cycling](https://nplus1.cc).
+I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
 ## How to reach me
 📧 klimsemenov86@gmail.com  
