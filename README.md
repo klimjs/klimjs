@@ -5,10 +5,6 @@
 
 [Tech Stack I love ❤️](https://github.com/stars/klimjs/lists/tech-stack-i-love)
 
-classic: `AdonisJS • htmx • Alpine.js`  
-modern: `Remix • Prisma`  
-css: `Tailwind CSS • daisyUI`
-
 I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
 ## How to reach me
