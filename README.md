@@ -1,9 +1,11 @@
 # 👨‍💻 Full Stack JS Developer
 
-> I'm a backend & frontend developer for 10+ years.  
-> Specialized in AdonisJS and Remix.
+> I'm a frontend & backend developer for 10+ years.  
+> Specialized in React and Node.js.
 
 [Tech Stack I love ❤️](https://github.com/stars/klimjs/lists/tech-stack-i-love)
+
+`Remix • Prisma • Radix • Stitches`
 
 I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
