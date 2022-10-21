@@ -3,11 +3,14 @@
 > I'm a frontend & backend developer for 10+ years.  
 > Specialized in React and Node.js.
 
-[tech stack i love ❤️](https://github.com/stars/klimjs/lists/tech-stack-i-love)
+I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
+* * *
+
+[tech stack i love ❤️](https://github.com/stars/klimjs/lists/tech-stack-i-love)  
 `next • chakra • supabase • adonis • prisma`
 
-I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
+Building ***expo0*** as my side project.
 
 ## How to reach me
 📧 klimsemenov86@gmail.com  
