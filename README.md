@@ -5,7 +5,7 @@
 
 [tech stack i love ❤️](https://github.com/stars/klimjs/lists/tech-stack-i-love)
 
-`Next.js • Chakra UI • Supabase • Prisma`
+`next • chakra • supabase • adonis • prisma`
 
 I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
