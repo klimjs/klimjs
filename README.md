@@ -10,7 +10,7 @@ I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https:/
 [tech stack i love ❤️](https://github.com/stars/klimjs/lists/tech-stack-i-love)  
 `next • chakra • supabase • adonis • prisma`
 
-🎨 Building [expo0](https://expo0.nl) as my side project.
+🎨 Building [expo0](https://expo0.app) as my side project.
 
 ## How to reach me
 📧 klimsemenov86@gmail.com  
