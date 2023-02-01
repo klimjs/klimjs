@@ -5,6 +5,10 @@
 
 I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
+* * *
+
+🖼 Building [expo0](https://expo0.app) as my side project.
+
 ## How to reach me
 📧 klimsemenov86@gmail.com  
 🙃 https://www.instagram.com/klimjs
