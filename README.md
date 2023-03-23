@@ -5,6 +5,8 @@
 
 I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
+`nextjs • mantine ui • adonisjs`
+
 * * *
 
 🖼 Coding [expo0](https://expo0.app) as my side project.
