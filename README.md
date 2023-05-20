@@ -5,6 +5,7 @@
 
 I currently work remotely at [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
+[My Tech Stack](https://github.com/stars/klimjs/lists/my-tech-stack)  
 `nextjs • mantine ui • adonisjs`
 
 ## How to reach me
