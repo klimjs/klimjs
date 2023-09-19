@@ -1,15 +1,15 @@
-# 👨‍💻 Full Stack JS Developer
+# 🦀 Full Stack JS Developer
 
-> I'm a **backend** & frontend developer for 10+ years.  
-> Specialized in **Node.js** and React.
+> I'm a frontend & backend developer for 10+ years.  
+> Specialized in JavaScript.
 
 I currently work remotely with [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
-[My Tech Stack](https://github.com/stars/klimjs/lists/my-tech-stack)  
-`adonisjs • nextjs • mantine ui`
+[klimjs.dev](https://klimjs.dev)
 
 ## How to reach me
 📧 klimjsdev@gmail.com  
+👨‍💻 [posts.cv](https://posts.cv/klimjs)  
 😎 [linkedin](https://www.linkedin.com/in/klimjs)  
 💬 [facebook](https://www.facebook.com/klim.semenov)  
 🙃 [instagram](https://www.instagram.com/klimjs)
