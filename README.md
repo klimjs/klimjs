@@ -5,7 +5,7 @@
 
 I currently work remotely with [N+1 Cycling](https://nplus1.cc) and [Self](https://www.selfstudio.se).
 
-[klimjs.dev](https://klimjs.dev)
+[klimjs.read.cv](https://klimjs.read.cv)
 
 ## How to reach me
 📧 klimjsdev@gmail.com  
