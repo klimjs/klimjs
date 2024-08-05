@@ -1,8 +1,7 @@
 # 🦀 Full Stack JS Developer
 
 > I'm a frontend & backend developer for 15+ years based in 🇵🇱 Poland.  
-> Specialized in React and Node.js.  
-> A big fan of e-commerce development.
+> Specialized in React.
 
 I currently work remotely @ [Heyflow](https://heyflow.com) as a Full Stack Engineer.
 
