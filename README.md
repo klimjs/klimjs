@@ -1,4 +1,4 @@
-# 🦀 Full Stack JS Developer
+# Full Stack JS Developer
 
 > I'm a frontend & backend developer for 15+ years based in 🇵🇱 Poland.  
 > Specialized in React.
