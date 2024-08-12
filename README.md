@@ -5,10 +5,5 @@
 
 I currently work remotely @ [Heyflow](https://heyflow.com) as a Full Stack Engineer.
 
-[klimjs.dev](https://klimjs.dev)
-
-## How to reach me
-📧 klimjsdev@gmail.com  
-👨‍💻 [linkedin](https://www.linkedin.com/in/klimjs)  
-💬 [facebook](https://www.facebook.com/klim.semenov)  
-🙃 [instagram](https://www.instagram.com/klimjs)
+👨‍💻 [klimjs.dev](https://klimjs.dev)  
+☕️ [posts.cv/klimjs](https://posts.cv/klimjs)
