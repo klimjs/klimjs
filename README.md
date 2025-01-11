@@ -12,5 +12,4 @@
 -------------
 
 ✨ [klimjs.dev](https://klimjs.dev)  
-☕️ [instagram](https://www.instagram.com/klimjs)  
-🦉 [youtube](https://www.youtube.com/@klimjs)
+☕️ [instagram](https://www.instagram.com/klimjs)
