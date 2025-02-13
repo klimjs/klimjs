@@ -3,7 +3,7 @@
 > I'm a frontend & backend developer for 15+ years based in 🇵🇱 Poland.  
 > Now specialized in React.
 
-🎯 Focusing on `nextjs`, `supabase` and `tailwindcss` with `shadcn/ui` in my side projects.
+🎯 Focusing on `nextjs`, `convex` and `tailwindcss` with `shadcn/ui` in my side projects.
 
 🇩🇪 I currently work remotely @ [Heyflow](https://heyflow.com) as a Full Stack Engineer.
 
