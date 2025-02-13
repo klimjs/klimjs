@@ -1,9 +1,9 @@
 # Full Stack JS Developer
 
 > I'm a frontend & backend developer for 15+ years based in 🇵🇱 Poland.  
-> Specialized in React.
+> Now specialized in React.
 
-🎯 Focusing now on `nextjs`, `supabase` and `tailwindcss` with `shadcn/ui` in my side projects.
+🎯 Focusing on `nextjs`, `supabase` and `tailwindcss` with `shadcn/ui` in my side projects.
 
 🇩🇪 I currently work remotely @ [Heyflow](https://heyflow.com) as a Full Stack Engineer.
 
