@@ -7,7 +7,7 @@
 
 🇩🇪 I currently work remotely @ [Heyflow](https://heyflow.com) as a Full Stack Engineer.
 
-👨‍💻 Building Monoflash as my side project — single-sided cards for language learners.
+👨‍💻 Building [Monoflash](https://www.monoflash.co) as my side project — single-sided cards for language learners.
 
 -------------
 
