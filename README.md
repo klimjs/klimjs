@@ -1,4 +1,4 @@
-# Full Stack JS Developer
+# Product engineer
 
 > I'm a product engineer with over 15 years of experience based in 🇵🇱 Poland.  
 > Specialized in React and Node.js
