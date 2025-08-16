@@ -11,4 +11,6 @@
 
 -------------
 
-✨ [klimjs.dev](https://klimjs.dev)
+✨ [klimjs.dev](https://klimjs.dev)  
+📗 [Indie Developer Journey: The Book](https://book.klimjs.dev)  
+☕️ [Threads](https://www.threads.com/@klimjs)
