@@ -11,5 +11,4 @@
 
 -------------
 
-✨ [klimjs.dev](https://klimjs.dev)  
-☕️ [Threads](https://www.threads.com/@klimjs)
+✨ [klimjs.dev](https://klimjs.dev)
