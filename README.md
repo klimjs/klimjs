@@ -1,14 +1,17 @@
-# Product engineer
+# Hey y’all 👋
 
-> I'm a product engineer with over 15 years of experience based in 🇵🇱 Poland.  
-> Specialized in React and Node.js
-
-🎯 Focusing on `nextjs`, `convex` and `tailwindcss` with `shadcn/ui` in my side projects.
+It’s Klim.  
+I’m a product engineer and a part-time indie developer based in 🇵🇱 Poland.  
+Years of experience: `15+`  
+My preferred tech stack: `react ○ node.js ○ python`
 
 🇩🇪 I currently work remotely @ [Heyflow](https://heyflow.com) as a Product Engineer.
 
-👨‍💻 Building [Monoflash](https://www.monoflash.co) as my side project — single-sided cards for language learners.
+👨‍💻 Building [Monoflash](https://www.monoflash.co) as my side project — single-sided cards for language learners.  
+`next.js ○ convex db ○ clerk auth ○ tailwindcss ○ shadcn/ui`
 
 -------------
 
-✨ [klimjs.dev](https://klimjs.dev)
+✨ [klimjs.dev](https://klimjs.dev)  
+✉️ [drop me a line﻿](https://letterbird.co/klimjs)  
+☕️ [instagram](https://www.instagram.com/klimjs)
