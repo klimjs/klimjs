@@ -3,7 +3,7 @@
 It’s Klim.  
 I’m a product engineer and a part-time indie developer based in 🇵🇱 Poland.  
 Years of experience: `15+`  
-My preferred tech stack: **react** ○ node.js
+My preferred tech stack: **react** • node.js
 
 🇩🇪 I currently work remotely @ [Heyflow](https://heyflow.com) as a Product Engineer.
 
@@ -13,5 +13,5 @@ My preferred tech stack: **react** ○ node.js
 -------------
 
 ✨ [klimjs.dev](https://klimjs.dev)  
-✉️ [drop me a line﻿](https://letterbird.co/klimjs)  
-☕️ [instagram](https://www.instagram.com/klimjs)
+☕️ [**threads**](https://www.threads.com/@klimjs) • [instagram](https://www.instagram.com/klimjs)  
+✉️ [drop me a line﻿](https://letterbird.co/klimjs)
