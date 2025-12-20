@@ -13,5 +13,4 @@ My preferred tech stack: **react** • node.js • (python)
 -------------
 
 ✨ [klimjs.dev](https://klimjs.dev)  
-☕️ [**threads**](https://www.threads.com/@klimjs) • [instagram](https://www.instagram.com/klimjs)  
 ✉️ [drop me a line﻿](https://letterbird.co/klimjs)
